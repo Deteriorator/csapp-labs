@@ -4,4 +4,4 @@ project(csapp_labs)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(csapp_labs
-        .gitignore)
+        .gitignore DataLab/bits.c)
